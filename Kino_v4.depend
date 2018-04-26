@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1521748907 source:c:\programowanie\kino_v4\interfejs.hpp
+	<string>
+
+1521747491 source:c:\programowanie\kino_v4\kino_v4cpp.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<conio.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<fstream>
+	"interfejs.hpp"
+
+1521748907 c:\programowanie\kino_v4\interfejs.hpp
+	<string>
+
+1521756914 source:c:\programowanie\kino_v4\film.cpp
+	"naglowki.hpp"
+
+1521747196 c:\programowanie\kino_v4\film.cpp
+	"interfejs.hpp"
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+
+1521756683 source:c:\programowanie\kino_v4\main.cpp
+	"naglowki.hpp"
+
+1521756914 source:c:\programowanie\kino_v4\sale.cpp
+	"naglowki.hpp"
+
+1521756394 c:\programowanie\kino_v4\naglowki.hpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<conio.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<fstream>
+
+1521756277 source:c:\programowanie\kino_v4\funkcje.cpp
+	"naglowki.hpp"
+
+1521756914 source:c:\programowanie\kino_v4\pliki.cpp
+	"naglowki.hpp"
+
+1522238218 source:c:\programowanie\kino_v4\grafik.cpp
+	"naglowki.hpp"
+
+1521756914 source:c:\dysk google\github\kino_v4\film.cpp
+	"naglowki.hpp"
+
+1521756394 c:\dysk google\github\kino_v4\naglowki.hpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<conio.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<fstream>
+
+1521756277 source:c:\dysk google\github\kino_v4\funkcje.cpp
+	"naglowki.hpp"
+
+1522238218 source:c:\dysk google\github\kino_v4\grafik.cpp
+	"naglowki.hpp"
+
+1521756683 source:c:\dysk google\github\kino_v4\main.cpp
+	"naglowki.hpp"
+
+1521756914 source:c:\dysk google\github\kino_v4\pliki.cpp
+	"naglowki.hpp"
+
+1521756914 source:c:\dysk google\github\kino_v4\sale.cpp
+	"naglowki.hpp"
+

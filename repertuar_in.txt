@@ -1,0 +1,5 @@
+Film: 	 sala: 	 dzien:	 godzina:  minuta:  czas:
+Pokemony	Kongresowa	1	10	0	24
+Pitbull_3D	Miejsa	4	5	0	65
+Matrix	Zgromadzen	3	9	23	90
+Matrix	Balowa	3	9	23	90
